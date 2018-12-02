@@ -40,7 +40,7 @@
     "concurrently": "^3.5.1",
     "flow-bin": "^0.59.0",
     "tslint": "^5.8.0",
-    "typescript": "^2.6.2"
+    "typescript": "3"
   },
   "ava": {
     "files": [
